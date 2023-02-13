@@ -3,7 +3,7 @@
 
 1. Download the starter project from GitHub, then open the project by using the **VS Code**, and get the packages.
 
-> https://github.com/Northwest-content/flutter_movie_app_starter
+> https://github.com/JoinCODED/flutter_movie_app_starter
 
 
 
